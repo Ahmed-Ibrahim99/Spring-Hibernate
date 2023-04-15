@@ -24,7 +24,7 @@ git clone https://github.com/Ahmed-Ibrahim99/Spring-Hibernate.git
 
 ## Custom Hibernate Configuration
 
-This project uses a custom Hibernate configuration to connect to the H2 in-memory database and perform CRUD operations. The custom configuration is defined in the `CrudRepository.java` file, which is located in the `com.example.demo.config` package.
+This project uses a custom Hibernate configuration to connect to the H2 in-memory database and perform CRUD operations. The custom configuration is defined in the `CrudRepository.java` file, which is located in the `com/example/Hibernate/config` package.
 
 In this configuration, we define the following Hibernate properties:
 
