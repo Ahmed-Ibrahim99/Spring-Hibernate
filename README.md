@@ -46,7 +46,7 @@ Once you're logged in, you can execute SQL queries and view the contents of the 
 
 ## Swagger Documentation
 
-This project includes Swagger documentation that describes the available endpoints and allows you to test them directly from the browser. You can access the Swagger documentation by navigating to `http://localhost:8080/swagger-ui.html` in your web browser.
+This project includes Swagger documentation that describes the available endpoints and allows you to test them directly from the browser. You can access the Swagger documentation by navigating to `http://localhost:8080/swagger-ui` in your web browser.
 
 The following endpoints are available:
 
