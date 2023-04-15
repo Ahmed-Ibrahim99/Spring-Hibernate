@@ -26,12 +26,6 @@ git clone https://github.com/Ahmed-Ibrahim99/Spring-Hibernate.git
 
 This project uses a custom Hibernate configuration to connect to the H2 in-memory database and perform CRUD operations. The custom configuration is defined in the `CrudRepository.java` file, which is located in the `com/example/Hibernate/config` package.
 
-In this configuration, we define the following Hibernate properties:
-
-- `hibernate.hbm2ddl.auto`: Automatically create, update, or validate the schema based on the Hibernate mappings.
-
-We also define the `DataSource` bean that provides the database connection properties.
-
 ## H2 Database Configuration
 
 This project uses an H2 in-memory database with a `schema.sql` and `data.sql` file to create and populate the database. The `schema.sql` file is used to create the database schema, while the `data.sql` file is used to insert data into the database.
