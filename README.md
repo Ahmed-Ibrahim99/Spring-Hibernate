@@ -50,9 +50,9 @@ This project includes Swagger documentation that describes the available endpoin
 
 The following endpoints are available:
 
-- `GET /api/users`: Get a list of all employees.
-- `POST /api/add`: Create a new employee.
-- `DELETE /api/user/{id}`: Delete an employee by ID.
+- `GET /api/users`: Get a list of all users.
+- `POST /api/add`: Create a new USER.
+- `DELETE /api/user/{id}`: Delete a suer by ID.
 
 ## Contributing
 
