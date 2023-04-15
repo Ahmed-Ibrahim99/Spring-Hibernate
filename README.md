@@ -40,7 +40,7 @@ In this example, we're using the H2 console to interact with the database. You c
 
 - `JDBC URL`: `jdbc:h2:mem:testdb`
 - `Username`: `sa`
-- `Password`: ``
+- `Password`:
 
 Once you're logged in, you can execute SQL queries and view the contents of the database.
 
