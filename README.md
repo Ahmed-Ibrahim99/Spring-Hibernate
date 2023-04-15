@@ -13,7 +13,7 @@ To get started with this project, you'll need to clone the repository to your lo
 
 ### Installing
 1. Clone the repository to your local machine:
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Ahmed-Ibrahim99/Spring-Hibernate.git
 
 2. Open the project in your preferred IDE.
 
